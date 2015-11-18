@@ -13,6 +13,7 @@ class MyTableViewController: UITableViewController {
     var SystemObject = ["Sun", "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"]
     var SystemImages = ["image-sun", "image-mercury", "image-venus", "image-earth", "image-mars", "image-jupiter", "image-saturn", "image-uranus", "image-neptune"]
     
+    // Changes made in from folder Git
     
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -4,15 +4,15 @@ provides:
 nominals:
 - "C11SolarSystem24MyViewController_Gravity"
 class-members:
-- "didReceiveMemoryWarning"
 - "viewDidLoad"
+- "didReceiveMemoryWarning"
 top-level:
 - "UIViewController"
 member-access:
-- "CSo16UIViewController"
-- "CSo11UIResponder"
 - "PSs9AnyObject"
+- "CSo16UIViewController"
 - "CSo8NSObject"
+- "CSo11UIResponder"
 dynamic-lookup:
 cross-module:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Swift.swiftmodule"

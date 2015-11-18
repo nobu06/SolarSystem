@@ -4,21 +4,21 @@ provides:
 nominals:
 - "C11SolarSystem23MyTableViewController_3"
 class-members:
+- "numberOfSectionsInTableView"
 - "viewDidLoad"
 - "didReceiveMemoryWarning"
 - "tableView"
-- "numberOfSectionsInTableView"
 top-level:
 - "UITableViewController"
 - "Int"
 - "UITableView"
 member-access:
-- "C11SolarSystem23MyTableViewController_3"
 - "CSo8NSObject"
-- "CSo21UITableViewController"
-- "PSs9AnyObject"
 - "CSo16UIViewController"
 - "CSo11UIResponder"
+- "C11SolarSystem23MyTableViewController_3"
+- "CSo21UITableViewController"
+- "PSs9AnyObject"
 dynamic-lookup:
 cross-module:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Swift.swiftmodule"
